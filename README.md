@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Parking management**
 
-- 🌱 I’m currently learning **Colud**
+- 🌱 I’m currently learning **Cloud**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Navaneetha-Krishnan-MV](https://github.com/Navaneetha-Krishnan-MV)
 
