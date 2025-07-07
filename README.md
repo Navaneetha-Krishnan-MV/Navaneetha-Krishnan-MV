@@ -1,7 +1,7 @@
 <div style="background-color: #000000; padding: 20px; margin: -20px;">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hello+Developers!+👋;I'm+Navaneethakrishnan;Full+Stack+Developer+</>;DevOps+and+AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hello+Developers!+👋;I'm+Navaneethakrishnan;Full+Stack+Developer;DevOps+and+AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
