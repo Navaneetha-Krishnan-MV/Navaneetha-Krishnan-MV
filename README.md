@@ -76,9 +76,11 @@
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navaneetha-Krishnan-MV&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
 
+<!--
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Navaneetha-Krishnan-MV&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
-</div>
+  <img width="390" src="https://streak-stats.demolab.com/?user=Navaneetha-Krishnan-MV&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
+</div> 
+ -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
