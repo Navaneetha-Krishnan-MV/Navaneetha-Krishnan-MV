@@ -1,4 +1,3 @@
-<div style="background-color: #000000; padding: 20px; margin: -20px;">
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hello+Developers!+👋;I'm+Navaneethakrishnan;Full+Stack+Developer;DevOps+and+AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
@@ -30,7 +29,7 @@
 
 ### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,js,python,mysql" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=c,java,js,python" alt="Programming Languages"/>
 </p>
 
 ### 🛠️ Frameworks & Libraries
@@ -38,9 +37,19 @@
   <img src="https://skillicons.dev/icons?i=react,tailwind,express" alt="Frameworks"/>
 </p>
 
+### 🌐 Cloud and Devops
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,aws,linux,docker,vercel,cloudflare" alt="Frameworks"/>
+</p>
+
+### 🛢️ Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="Frameworks"/>
+</p>
+
 ### 🔧 Tools & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,mongodb,postgres,postman,vscode,firebase,aws,linux,docker" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Tools"/>
 </p>
 
 ### 🎨 Additional Skills
